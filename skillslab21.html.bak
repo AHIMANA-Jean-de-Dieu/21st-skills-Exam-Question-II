@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+div.scrollmenu {
+  background-color: #2E8B57;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 18px;
+  text-decoration: none;
+}
+.one
+{
+    background-color:limegreen;    
+    float: left;  
+}
+.two
+{
+    background-color:white;
+    float: left;
+}
+</style>
+<style>
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+<table>
+<tr><td>
+<div class="scrollmenu">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../../Users/KING DAVID/Desktop/pry.jpeg" width="30" height="30" border="0" alt="Avatar" class="avatar">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#home">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#resume">Resume</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#blog">Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#contacts">Contacts</a>
+</div></td></tr>
+<tr height="500"><td>
+<div class="one"><img src="../../../Users/KING DAVID/Downloads/ppriyaa.jpg" width="237" height="300" border="0" alt=""></div>
+<div class="two">
+<h2><center>Hello, I'm Priya</center></h2>
+<center>
+<p><center>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac neque at nulla eleitend </center></p>
+<p> <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bibendum. Duls ac interdum justo. Morbi quis mollis nunc, quis lacinia magna. Proin in nunc.</center></p>
+<p> <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prasent sed purus firibus,bibendum ioren non,sagittis neque. Nunc tincidunt suscipit egestas. Sed</center></p>
+<p> <center>&nbsp;&nbsp;porte felis et imperdiet tempor. Quisque posuere finibus sapien non tincidunt.Morbi at nulla </center> </p>
+<p>sollicitudin, fementum neque nec, molestie dolor.</p>
+</center>
+
+</div>
+</td></tr>
+<tr>
+<td style="background-color:#B0C4DE"><center> <font size="" color="">Copyright &copy2022</font></center></td></tr></table>
+</body>
+</html>
